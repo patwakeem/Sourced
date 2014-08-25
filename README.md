@@ -1,0 +1,1 @@
+Daemon that watches a certain directory and responds when files matching a certain pattern appear in that directory.
